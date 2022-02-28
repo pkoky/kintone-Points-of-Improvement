@@ -60,3 +60,12 @@ https://user-images.githubusercontent.com/78239360/156076469-2e093855-1fdf-4024-
  ***
  
  <img width="694" alt="スクリーンショット 2022-03-01 8 51 03" src="https://user-images.githubusercontent.com/78239360/156078487-30c9cfc8-e9f4-43ae-856c-35a64f23b3bf.png">
+
+***
+
+**6. レコード編集アイコンなどが初心者に何をするボタンか理解できない**
+- レコードを編集したりするアイコンが何をするボタンなのかがわかりずらいと感じる。ホバーした時に、「修正」などと表示されるようにするとわかりやすそうだ。
+
+
+<img width="1728" alt="スクリーンショット 2022-02-28 14 56 41" src="https://user-images.githubusercontent.com/78239360/156078796-33b6beab-8d8e-4392-8293-224bc3400a9a.png">
+
