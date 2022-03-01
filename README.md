@@ -117,6 +117,7 @@ https://user-images.githubusercontent.com/78239360/156085829-78512c8e-26d0-4e7a-
 
 ## 提案
 - マウスホバー時に言葉の説明が表示されるとわかりやすいと思います。
+
 https://user-images.githubusercontent.com/78239360/156082919-c5a254ed-36f6-46cd-ad22-377256a786d2.mov
 
 ***
