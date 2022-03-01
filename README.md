@@ -129,7 +129,7 @@ https://user-images.githubusercontent.com/78239360/156082919-c5a254ed-36f6-46cd-
 - 知らない間に不要なアプリが溜まってしまい、アプリ管理が煩雑になってしまう心配がある。
 - アプリ作成途中で誤って画面遷移をしてしまった時のリスクヘッジになっている。
 
-<img width="1693" alt="スクリーンショット 2022-03-01 10 26 34" src="https://user-images.githubusercontent.com/78239360/156088530-ca61d52c-fd31-406e-b90c-3ed13dff6b04.png">
+<img width="1693" alt="スクリーンショット 2022-03-01 10 26 34" src="https://user-images.githubusercontent.com/78239360/156091956-f90fab6e-6841-40c9-af60-9a63fdd686d9.png">
 
 ## 提案
 - 何も追加などされていない場合は保存されないようにしてはどうでしょうか。
